@@ -20,5 +20,5 @@
     "moment": "^2.29.4",
     "mongoose": "^6.8.2"
   },
-  "engines": { "node": "16.6.1" }
+  "engines": { "node": ">=16.6.1" }
 }
